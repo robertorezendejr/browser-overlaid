@@ -1,0 +1,23 @@
+{
+  "name": "browser-overlaid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robertorezendejr/browser-overlaid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robertorezendejr/browser-overlaid/issues"
+  },
+  "homepage": "https://github.com/robertorezendejr/browser-overlaid#readme",
+  "dependencies": {
+    "electron": "^12.0.5"
+  }
+}
